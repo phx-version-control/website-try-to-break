@@ -2,6 +2,10 @@
 
 - what is git?
 - why use git?
-- who broke it?
-- 
+- lets break git?
+- set up remote repo & what's a repo?
+- merge stuff
+- make conflicts
+- maybe rebase?
+- multi-dev shop scenario?
 
