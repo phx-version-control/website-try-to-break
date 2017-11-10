@@ -1,9 +1,9 @@
 # Phoenix Version Control - Whatever it wants to be
 
-- [ ] what is git?
-- [ ] why use git?
-- [ ] lets break git?
-- [ ] set up remote repo & what's a repo?
+- [x] what is git?
+- [x] why use git?
+- [x] lets break git?
+- [x] set up remote repo & what's a repo?
 - [ ] merge stuff
 - [x] make conflicts
 - [ ] maybe rebase?
